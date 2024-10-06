@@ -6,7 +6,7 @@ body{
      min-width: 320px;
      min-height:500px;
      margin: 0px;
-     background: url(media/backgr.png);
+     background: url(backgr.png);
      background-size: contain;
      background-repeat: no-repeat;
 }
